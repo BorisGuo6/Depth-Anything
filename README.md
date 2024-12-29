@@ -19,8 +19,13 @@ This work presents Depth Anything, a highly practical solution for robust monocu
 
 ![teaser](assets/teaser.png)
 
+<div align="center">
+    <a href="https://github.com/DepthAnything/Depth-Anything-V2"><b>Try our latest Depth Anything V2 models!</b></a><br>
+</div>
+
 ## News
 
+* **2024-06-14:** [Depth Anything V2](https://github.com/DepthAnything/Depth-Anything-V2) is released.
 * **2024-02-27:** Depth Anything is accepted by CVPR 2024.
 * **2024-02-05:** [Depth Anything Gallery](./gallery.md) is released. Thank all the users!
 * **2024-02-02:** Depth Anything serves as the default depth processor for [InstantID](https://github.com/InstantID/InstantID) and [InvokeAI](https://github.com/invoke-ai/InvokeAI/releases/tag/v3.6.1).
@@ -245,7 +250,8 @@ Here we list the extensions we have found:
 - Depth Anything in TouchDesigner: https://github.com/olegchomp/TDDepthAnything
 - LearnOpenCV research article on Depth Anything: https://learnopencv.com/depth-anything
 - Learn more about the DPT architecture we used: https://github.com/heyoeyo/muggled_dpt
-     
+- Depth Anything in NVIDIA Jetson Orin: https://github.com/ZhuYaoHui1998/jetson-examples/blob/main/reComputer/scripts/depth-anything
+
 
 If you have your amazing projects supporting or improving (*e.g.*, speed) Depth Anything, please feel free to drop an issue. We will add them here.
 
